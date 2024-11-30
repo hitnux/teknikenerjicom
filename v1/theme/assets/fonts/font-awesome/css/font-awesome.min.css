@@ -4,17 +4,17 @@
  */
 @font-face {
   font-family: "FontAwesome";
-  src: url("/v1/themes/customify/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0");
+  src: url("/v1/theme/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0");
   src:
-    url("/v1/themes/customify/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot#iefix&v=4.7.0")
+    url("/v1/theme/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot#iefix&v=4.7.0")
       format("embedded-opentype"),
-    url("/v1/themes/customify/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0")
+    url("/v1/theme/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0")
       format("woff2"),
-    url("/v1/themes/customify/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0")
+    url("/v1/theme/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0")
       format("woff"),
-    url("/v1/themes/customify/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0")
+    url("/v1/theme/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0")
       format("truetype"),
-    url("/v1/themes/customify/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
+    url("/v1/theme/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
       format("svg");
   font-weight: normal;
   font-style: normal;
