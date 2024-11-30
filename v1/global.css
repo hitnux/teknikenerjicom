@@ -2382,7 +2382,7 @@ div#n2-ss-2 > .dgwt-wcas-ico-magnifier,
   display: none !important;
 }
 i.icon {
-  margin-left: 0;
+  margin-left: 0 !important;
 }
 .widget-area .widget ul li {
   margin: 0;
